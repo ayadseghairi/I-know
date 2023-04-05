@@ -1,2 +1,0 @@
-start c:\zoui\video
-
